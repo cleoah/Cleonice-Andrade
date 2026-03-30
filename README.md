@@ -14,9 +14,10 @@
 
 Olá! Sou Cleonice, médica veterinária apaixonada pela interface entre saúde animal, humana e ambiental. Acredito que cuidar dos animais é cuidar do planeta — e que zoonoses não escolhem fronteiras. 🐱🌍
 
+- 🔬 Analista no **Ministério da Saúde** atuando com a equipe do Departamento de Estratégias para a Expansão e a Qualificação da Atenção Especializada. (2026).  
 - 🔬 Mestre em **Medicina Tropical** pela Universidade de Brasília (2021)
 - 🏥 Especialista em **Vigilância Sanitária** (UNINTER, 2024)
-- 🌎 Consultora Nacional na **OPAS/OMS** desde 2022 — atuando em emergências de saúde pública, COVID-19 e vigilância epidemiológica
+- 🌎 Consultora Nacional na **OPAS/OMS** de 2022 a 2025 — atuando em emergências de saúde pública, COVID-19 e vigilância epidemiológica
 - 🐄 Experiência como **Médica Veterinária Oficial** no Ministério da Agricultura (MAPA)
 - 🧬 Pesquisadora em doenças infecciosas, esporotricose, leishmaniose visceral canina e compostos antifúngicos derivados de cardanol
 - 🐾 Defensora da abordagem **One Health** — saúde única para humanos, animais e ecossistemas
