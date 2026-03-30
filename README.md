@@ -42,6 +42,9 @@ Olá! Sou Cleonice, médica veterinária apaixonada pela interface entre saúde 
 
 <img align="right" src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="160"/>
 
+**🏥 Ministério da Saúde — Análise de dados em saúde** *(2026 - )*
+> Apoio no mapeamento de dados de saúde do programa agora tem especialistas.
+
 **🌎 OPAS/OMS — Consultora Nacional** *(2021 – 2025)*
 > Apoio técnico estratégico em resposta ao enfrentamento da COVID-19 e outras emergências de saúde pública. Atuação na sala de situação da Unidade Técnica de vigilância, preparação e resposta a emergências e desastres.
 
